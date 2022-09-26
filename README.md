@@ -36,7 +36,7 @@ GreasyFork脚本商店地址：https://greasyfork.org/en/scripts/452026-zhihuone
 
 <h2>安装及使用详细说明</h2><p>
 
-**浏览器扩展及Javascript脚本的安装配置参考 https://github.com/ninini1990/ZhihuAnswerChecker-JavaScript/edit/main/README.md**<p>
+**浏览器扩展及Javascript脚本的安装配置参考 https://github.com/ninini1990/ZhihuAnswerChecker-JavaScript/blob/main/README.md**<p>
 **此处不再作重复说明。** <br><p>
 <p>
 <p>
