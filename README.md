@@ -6,6 +6,10 @@
 作者：尼尼尼@知乎<p>
 备份公众号：尼尼尼不打拳<p>
 
+**效果示例动图：**<p>
+![report](https://user-images.githubusercontent.com/112439804/192174919-71023448-888f-420e-b50f-ea527e26d722.gif) <p>
+
+
 **运行环境需求：**<p>
 已测试过 谷歌Chrome / 微软Edge / Firefox 浏览器，均可正常使用。<p>
 
