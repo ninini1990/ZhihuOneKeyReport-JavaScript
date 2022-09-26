@@ -17,7 +17,8 @@
 Github: 
 Chrome扩展商店“暴力猴”地址：https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag?hl=zh-CN  <p>
 GreasyFork脚本商店地址：
-
+<p>
+  
 <h2>使用提示</h2> <p>
 
 **安全性：**<p>
@@ -33,19 +34,25 @@ GreasyFork脚本商店地址：
 
 <h2>安装及使用详细说明</h2><p>
 
-** 浏览器扩展及Javascript脚本的安装配置参考 https://github.com/ninini1990/ZhihuAnswerChecker-JavaScript/edit/main/README.md**<p>
-** 不作重复说明 ** <p>
+**浏览器扩展及Javascript脚本的安装配置参考 https://github.com/ninini1990/ZhihuAnswerChecker-JavaScript/edit/main/README.md**<p>
+**此处不再作重复说明。** <p>
+<p>
+  
+**1.脚本配置完成后，从浏览器菜单栏的暴力猴扩展中启用脚本。** <p>
+**注意不能与单页回答检查脚本同时启用 ** <p>
+  ![image](https://user-images.githubusercontent.com/112439804/192172966-6f44b3e1-28a5-4783-8294-c57a7db76090.png) <p>
 
-1.脚本配置完成后，刷新页面，右侧滚动条旁边会出多一个蓝色按钮（备用按钮，不是必须点击）
+  
+**2.刷新页面，右侧滚动条旁边会出多一个蓝色按钮（备用按钮，不是必须点击）** 
 
 ![image](https://user-images.githubusercontent.com/112439804/192172606-0826263e-4e1e-4f8f-8713-340318516bc4.png) <p>
 
-2. 进入要举报内容的个人主页, 点击回答、文章、想法等模块后，** 注意手工刷新一次页面。** <p>
-在每条内容后就会多出一个“一键举报”按钮。<p>
+**3. 进入要举报内容的个人主页, 点击回答、文章、想法等模块后，注意需要手工刷新一次页面。** <p>
+**在每条内容后就会多出一个“一键举报”按钮。** <p>
 
 ![image](https://user-images.githubusercontent.com/112439804/192172702-5a55334f-71e9-4e46-a934-e77a731ce523.png) <p>
 
-3. 知乎的文章、回答等模块是部分动态加载的，所以有时候出现只有一半内容加上按钮的情况，这时点击一下右侧的蓝色按钮手工添加即可。<p>
+**4. 知乎的文章、回答等模块是部分动态加载的，所以有时候出现只有一半内容加上按钮的情况，这时点击一下右侧的蓝色按钮手工添加即可。** <p>
 
 
 
